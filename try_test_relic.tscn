@@ -1,0 +1,17 @@
+[gd_scene load_steps=4 format=3 uid="uid://blwt8ko17vad6"]
+
+[ext_resource type="Texture2D" uid="uid://7gcft6arv7e2" path="res://try/images/relics/try-test_relic.png" id="1_y7sul"]
+[ext_resource type="Texture2D" uid="uid://bcb8kn1oa2q" path="res://try/images/cards/try-test_card.png" id="2_elcv4"]
+[ext_resource type="Texture2D" uid="uid://rh6i312rpfkd" path="res://try/images/powers/try-test_power.png" id="3_ijr5t"]
+
+[node name="TryTestRelic" type="Sprite2D"]
+position = Vector2(142, 915)
+texture = ExtResource("1_y7sul")
+
+[node name="TryTestCard" type="Sprite2D" parent="."]
+position = Vector2(370, -526)
+texture = ExtResource("2_elcv4")
+
+[node name="TryTestPower" type="Sprite2D" parent="."]
+position = Vector2(863, 328)
+texture = ExtResource("3_ijr5t")

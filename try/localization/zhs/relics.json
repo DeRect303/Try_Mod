@@ -1,0 +1,5 @@
+﻿{
+  "TRY-TEST_RELIC.title": "测试遗物",
+  "TRY-TEST_RELIC.description": "每回合开始时，抽[blue]{Cards}[/blue]张牌。\n已经历过[blue]{GameTurns}[/blue]回合了。",
+  "TRY-TEST_RELIC.flavor": "觉得很眼熟？"
+}

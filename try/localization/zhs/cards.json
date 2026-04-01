@@ -1,0 +1,4 @@
+﻿{
+  "TRY-TEST_CARD.title": "测试卡牌",
+  "TRY-TEST_CARD.description": "[gold]汲取[/gold]{try-Leech:diff()}\n造成{Damage:diff()}点伤害。"
+}
