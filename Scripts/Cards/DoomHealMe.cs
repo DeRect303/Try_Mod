@@ -13,7 +13,7 @@ namespace Try.Scripts.Cards;
 
 
 [Pool(typeof(NecrobinderCardPool))]
-public class DoomPowerHealMe : CustomCardModel
+public class DoomHealMe : CustomCardModel
 {
     private const int energycost = 1;
 
@@ -35,7 +35,7 @@ public class DoomPowerHealMe : CustomCardModel
 
     
     
-    public DoomPowerHealMe() : base(energycost, type, rarity, target ,shouldShowInCardLibrary)
+    public DoomHealMe() : base(energycost, type, rarity, target ,shouldShowInCardLibrary)
     {
     }
 

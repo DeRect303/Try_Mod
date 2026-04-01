@@ -1,4 +1,13 @@
-﻿{
+{
   "TRY-TEST_CARD.title": "测试卡牌",
-  "TRY-TEST_CARD.description": "[gold]汲取[/gold]{try-Leech:diff()}\n造成{Damage:diff()}点伤害。"
+  "TRY-TEST_CARD.description": "[gold]汲取[/gold]{try-Leech:diff()}\n造成{Damage:diff()}点伤害。",
+
+  "TRY-DOOM_MAKES_LIVE.title": "灾厄予我新生",
+  "TRY-DOOM_MAKES_LIVE.description": "在你受到伤害时，改为扣除相应 [gold]灾厄[/gold] 层数。",
+
+  "TRY-DOOM_HEAL_ME.title": "灾厄愈我",
+  "TRY-DOOM_HEAL_ME.description": "给予自身 {DoomPower:diff()} 点 [gold]灾厄[/gold] ，然后治愈自身 {Heal:diff()} 点生命值。",
+
+  "TRY-DOOM_RUIN_ALL.title": "灾厄毁灭一切",
+  "TRY-DOOM_RUIN_ALL.description": "依次给予所有人 {DoomPower:diff()} 点 [gold]灾厄[/gold] ，并造成等同于灾厄数值的伤害。"
 }

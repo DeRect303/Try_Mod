@@ -1,5 +1,9 @@
-﻿{
+{
   "TRY-TEST_POWER.description": "每次抽牌时，获得一点[gold]力量[/gold]。",
-  "TRY-TEST_POWER.smartDescription": "每次抽牌时，获得[blue]{Amount}[/blue]点[gold]力量[/gold]。", // smartDescription可以使用{Amount}来显示当前的数值
-  "TRY-TEST_POWER.title": "邪火"
+  "TRY-TEST_POWER.smartDescription": "每次抽牌时，获得[blue]{Amount}[/blue]点[gold]力量[/gold]。", 
+  "TRY-TEST_POWER.title": "邪火",
+
+  "TRY-DOOMMAKESLIVEPOWER.description": "在你受到伤害时，改为扣除相应灾厄层数。",
+  "TRY-DOOMMAKESLIVEPOWER.smartDescription": "在你受到伤害时，改为扣除相应灾厄层数。", 
+  "TRY-DOOMMAKESLIVEPOWER.title": "灾厄予我新生"
 }
