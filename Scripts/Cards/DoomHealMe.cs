@@ -32,8 +32,6 @@ public class DoomHealMe : CustomCardModel
     ];
     
     public override string PortraitPath => $"res://try/images/cards/{Id.Entry.ToLowerInvariant()}.png";
-
-    
     
     public DoomHealMe() : base(energycost, type, rarity, target ,shouldShowInCardLibrary)
     {

@@ -6,8 +6,11 @@
   "TRY-DOOM_MAKES_LIVE.description": "在你受到伤害时，改为扣除相应 [gold]灾厄[/gold] 层数。",
 
   "TRY-DOOM_HEAL_ME.title": "灾厄愈我",
-  "TRY-DOOM_HEAL_ME.description": "给予自身 {DoomPower:diff()} 点 [gold]灾厄[/gold] ，然后治愈自身 {Heal:diff()} 点生命值。",
+  "TRY-DOOM_HEAL_ME.description": "给予自身 {DoomPower:diff()} 点 [gold]灾厄[/gold] ，\n 然后治愈自身 {Heal:diff()} 点生命值。",
 
+  "TRY-FEEL_MY_PAIN.title": "感同伤痛",
+  "TRY-FEEL_MY_PAIN.description": "{IfUpgraded:show: 给与自身{DoomPower:diff()}点灾厄,}\n对一名敌人造成等同灾厄数伤害，并使自身灾厄翻倍",
+  
   "TRY-DOOM_RUIN_ALL.title": "灾厄毁灭一切",
-  "TRY-DOOM_RUIN_ALL.description": "依次给予所有人 {DoomPower:diff()} 点 [gold]灾厄[/gold] ，并造成等同于灾厄数值的伤害。"
+  "TRY-DOOM_RUIN_ALL.description": "依次给予所有人 {DoomPower:diff()} 点 [gold]灾厄[/gold] ,\n并造成等同于灾厄数值的伤害。"
 }
