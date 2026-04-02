@@ -10,7 +10,10 @@
 
   "TRY-FEEL_MY_PAIN.title": "感同伤痛",
   "TRY-FEEL_MY_PAIN.description": "{IfUpgraded:show: 给与自身{DoomPower:diff()}点灾厄,}\n对一名敌人造成等同灾厄数伤害，并使自身灾厄翻倍",
-  
+
+  "TRY-LIKE_ALIVE.title": "宛若新生",
+  "TRY-LIKE_ALIVE.description": "[gold]消耗[/gold]\n{IfUpgraded:show: 给与自身一层[gold]新生[/gold],}\n清空自身灾厄层数",
+
   "TRY-DOOM_RUIN_ALL.title": "灾厄毁灭一切",
   "TRY-DOOM_RUIN_ALL.description": "依次给予所有人 {DoomPower:diff()} 点 [gold]灾厄[/gold] ,\n并造成等同于灾厄数值的伤害。"
 }

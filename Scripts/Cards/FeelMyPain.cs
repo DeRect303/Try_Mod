@@ -50,5 +50,5 @@ public class FeelMyPain : CustomCardModel
             DoomPower doomPower = await PowerCmd.Apply<DoomPower>(this.Owner.Creature, amount,this.Owner.Creature,(CardModel) this) ;
         }
     }
-
+    
 }

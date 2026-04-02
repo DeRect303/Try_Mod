@@ -3,7 +3,11 @@
   "TRY-TEST_POWER.smartDescription": "每次抽牌时，获得[blue]{Amount}[/blue]点[gold]力量[/gold]。", 
   "TRY-TEST_POWER.title": "邪火",
 
-  "TRY-DOOMMAKESLIVEPOWER.description": "在你受到伤害时，改为扣除相应灾厄层数。",
-  "TRY-DOOMMAKESLIVEPOWER.smartDescription": "在你受到伤害时，改为扣除相应灾厄层数。", 
-  "TRY-DOOMMAKESLIVEPOWER.title": "灾厄予我新生"
+  "TRY-DOOM_MAKES_LIVE_POWER.description": "在你受到伤害时，改为扣除相应灾厄层数。",
+  "TRY-DOOM_MAKES_LIVE_POWER.smartDescription": "在你受到伤害时，改为扣除相应灾厄层数。", 
+  "TRY-DOOM_MAKES_LIVE_POWER.title": "灾厄予我新生",
+
+  "TRY-ALIVE_POWER.description": "在你受到致命伤害时，防止它一次。",
+  "TRY-ALIVE_POWER.smartDescription": "在你受到致命伤害时，防止它[blue]{Amount}[/blue]次。",
+  "TRY-ALIVE_POWER.title": "新生"
 }
